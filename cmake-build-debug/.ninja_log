@@ -1,0 +1,19 @@
+# ninja log v5
+1	307	6970289528145537	build.ninja	2e7f1b0569086257
+15	154	6970282286992650	CMakeFiles/workerManage.dir/worker.cpp.obj	96925edd7766a017
+42	503	6970282290565715	CMakeFiles/workerManage.dir/boss.cpp.obj	793bbd0c43fdab1a
+3	414	6970286966004127	CMakeFiles/workerManage.dir/main.cpp.obj	5f6f45bc79a4cc1e
+32	486	6970282290386561	CMakeFiles/workerManage.dir/employee.cpp.obj	8eec478f63e2ea83
+23	576	6970282291294720	CMakeFiles/workerManage.dir/workerManage.cpp.obj	61cf76288d9f6fc9
+8	491	6970282290445685	CMakeFiles/workerManage.dir/manager.cpp.obj	bb22f21e431c7a9d
+414	598	6970286967805136	workerManage.exe	b40b769fc0ebf2bb
+3	434	6970290021546335	CMakeFiles/workerManage.dir/main.cpp.obj	5f6f45bc79a4cc1e
+434	628	6970290023433211	workerManage.exe	b40b769fc0ebf2bb
+4	514	6970292799964664	CMakeFiles/workerManage.dir/workerManage.cpp.obj	61cf76288d9f6fc9
+514	694	6970292801726056	workerManage.exe	b40b769fc0ebf2bb
+33	886	6970294289392171	CMakeFiles/workerManage.dir/boss.cpp.obj	793bbd0c43fdab1a
+24	888	6970294289402161	CMakeFiles/workerManage.dir/employee.cpp.obj	8eec478f63e2ea83
+5	917	6970294289743103	CMakeFiles/workerManage.dir/main.cpp.obj	5f6f45bc79a4cc1e
+43	922	6970294289795271	CMakeFiles/workerManage.dir/manager.cpp.obj	bb22f21e431c7a9d
+15	954	6970294290114893	CMakeFiles/workerManage.dir/workerManage.cpp.obj	61cf76288d9f6fc9
+954	1163	6970294292197460	workerManage.exe	b40b769fc0ebf2bb
