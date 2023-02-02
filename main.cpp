@@ -8,8 +8,7 @@
 #include"manager.h"
 #include"boss.h"
 using namespace std;
-int main(void)
-{
+int main(void) {
   //测试
   /*Worker* worker = NULL;
   worker = new Employee(1, "sb", 1);
@@ -22,15 +21,13 @@ int main(void)
   //实例化一个管理者的对象
   WorkerManage wm;
   int choice = 0;//用来存储用户的选择
-  while (1)
-  {
+  while (1) {
     //显示菜单
     wm.Show_Menu();
     cout << "请输入你的选择" << endl;
     cin >> choice;
 
-    switch (choice)
-    {
+    switch (choice) {
       case 0://退出系统
         wm.ExitSystem();
         break;
@@ -55,8 +52,7 @@ int main(void)
       case 7://清空文件
         wm.Clean_File();
         break;
-      default:
-        system("cls");//清屏
+      default:system("cls");//清屏
         break;
     }
 
